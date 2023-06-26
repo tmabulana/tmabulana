@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tmabulana
-- 👀 I’m interested in ... gt
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... software development.
+- 🌱 I’m currently learning ... a variety of programming languages.
+- 💞️ I’m looking to collaborate on ... creating impactful softwares.
+- 📫 How to reach me ... mabulanathabang31@gmail.com
 
 <!---
 tmabulana/tmabulana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
